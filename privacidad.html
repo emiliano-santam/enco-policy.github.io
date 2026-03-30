@@ -2,14 +2,14 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Política de Privacidad - [NOMBRE DE TU EMPRESA]</title>
+    <title>Política de Privacidad - ENCO </title>
 </head>
 <body>
     <h1>Política de Privacidad</h1>
     <p><strong>Última actualización:</strong> 30 de marzo de 2026</p>
 
     <h2>1. Información general</h2>
-    <p>Esta Política de Privacidad aplica a la aplicación “[NOMBRE DE TU APP]” creada por <strong>[NOMBRE DE TU EMPRESA]</strong>, una empresa pequeña con domicilio en México.</p>
+    <p>Esta Política de Privacidad aplica a la aplicación “ENCO Foods Metrics” creada por <strong>ENCO</strong>, una empresa pequeña con domicilio en México.</p>
     <p>La aplicación se utiliza exclusivamente de forma interna para consultar y analizar métricas de nuestros propios Pines en Pinterest mediante la API oficial de Pinterest.</p>
 
     <h2>2. Datos que obtenemos</h2>
@@ -29,7 +29,7 @@
     Su uso es estrictamente interno para reportes de nuestra empresa.</p>
 
     <h2>6. Contacto</h2>
-    <p>Cualquier duda sobre esta política puedes escribirnos a: [TU EMAIL DE CONTACTO]</p>
+    <p>Cualquier duda sobre esta política puedes escribirnos a: emiliano.santamaria@encoalimentos.com</p>
 
     <p>Esta política cumple con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (México) y con los requisitos de Pinterest para desarrolladores.</p>
 </body>

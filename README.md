@@ -1,36 +1,107 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Política de Privacidad - ENCO </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENCO Foods Analytics - Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            margin-top: 25px;
+            color: #34495e;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        a {
+            color: #2c7be5;
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
-    <h1>Política de Privacidad</h1>
-    <p><strong>Última actualización:</strong> 30 de marzo de 2026</p>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Last updated:</strong> March 30, 2026</p>
 
-    <h2>1. Información general</h2>
-    <p>Esta Política de Privacidad aplica a la aplicación “ENCO Foods Metrics” creada por <strong>ENCO</strong>, una empresa pequeña con domicilio en México.</p>
-    <p>La aplicación se utiliza exclusivamente de forma interna para consultar y analizar métricas de nuestros propios Pines en Pinterest mediante la API oficial de Pinterest.</p>
+        <h2>1. General Information</h2>
+        <p>
+            This Privacy Policy applies to the application <strong>“ENCO Foods Analytics”</strong>, developed by ENCO, a company based in Mexico.
+        </p>
+        <p>
+            This application is used exclusively for internal purposes to access and analyze performance metrics from our own Pinterest account using the official Pinterest API.
+        </p>
 
-    <h2>2. Datos que obtenemos</h2>
-    <p>Únicamente obtenemos datos públicos y analíticos de **nuestra propia cuenta de Pinterest** (impresiones, guardados, clics, etc.). No recolectamos datos personales de ningún usuario final de Pinterest ni de terceros.</p>
+        <h2>2. Data We Collect</h2>
+        <p>
+            We only collect analytical data from our own Pinterest account, such as impressions, saves, and clicks.
+        </p>
+        <p>
+            We do not collect personal data from Pinterest users or any third parties.
+        </p>
 
-    <h2>3. Uso de la API de Pinterest</h2>
-    <p>Esta aplicación utiliza la API de Pinterest únicamente para acceder a métricas de nuestra propia cuenta. 
-    <strong>NO estamos afiliados ni somos socios oficiales de Pinterest.</strong> 
-    Solo usamos la API con autorización explícita de nuestra cuenta y conforme a los términos de Pinterest.</p>
+        <h2>3. Use of Pinterest API</h2>
+        <p>
+            This application uses the Pinterest API in compliance with Pinterest’s developer policies. Access is limited to data from our own account with proper authorization.
+        </p>
 
-    <h2>4. Almacenamiento y eliminación de datos</h2>
-    <p>Los datos obtenidos se almacenan temporalmente en nuestros servidores internos solo para generar reportes. 
-    Si en cualquier momento desconectamos la aplicación de Pinterest o revocamos el acceso, eliminaremos todos los datos obtenidos de la API en un plazo máximo de 30 días.</p>
+        <h2>4. Data Storage and Deletion</h2>
+        <p>
+            Data is stored securely on internal servers and retained only as long as necessary to generate reports.
+        </p>
+        <p>
+            If access to the Pinterest API is revoked, all stored data will be deleted within a maximum of 30 days.
+        </p>
 
-    <h2>5. No venta ni redistribución</h2>
-    <p><strong>En ningún caso vendemos, compartimos, redistribuimos ni usamos con fines comerciales los datos obtenidos de la API de Pinterest.</strong> 
-    Su uso es estrictamente interno para reportes de nuestra empresa.</p>
+        <h2>5. No Sale or Redistribution</h2>
+        <p>
+            We do not sell, share, redistribute, or commercially exploit any data obtained through the Pinterest API.
+        </p>
+        <p>
+            All data is used strictly for internal reporting and analysis purposes.
+        </p>
 
-    <h2>6. Contacto</h2>
-    <p>Cualquier duda sobre esta política puedes escribirnos a: emiliano.santamaria@encoalimentos.com</p>
+        <h2>6. Security</h2>
+        <p>
+            We implement reasonable security measures to protect the data obtained through the Pinterest API.
+        </p>
 
-    <p>Esta política cumple con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (México) y con los requisitos de Pinterest para desarrolladores.</p>
+        <h2>7. Contact</h2>
+        <p>
+            If you have any questions regarding this policy, you may contact us at:
+        </p>
+        <p>
+            <a href="mailto:emiliano.santamaria@encoalimentos.com">
+                emiliano.santamaria@encoalimentos.com
+            </a>
+        </p>
+
+        <div class="footer">
+            <p>This application is intended for internal use by a Mexico-based company.</p>
+        </div>
+    </div>
 </body>
 </html>
